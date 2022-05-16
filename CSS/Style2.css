@@ -1,0 +1,22 @@
+.foot{
+    position: absolute;
+    bottom:0;
+    font-family: "Poppins",sans-serif;
+    color:white;
+    background:#99101C;
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    position:fixed;
+
+   
+   
+}
+.foot h1{
+    font-size: 20px;
+    font-weight: normal;
+    text-transform: lowercase;
+    color:white;
+   
+
+}

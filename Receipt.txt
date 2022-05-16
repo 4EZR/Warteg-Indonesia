@@ -1,0 +1,355 @@
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M002
+Nama Makanan: Ayam goreng
+Quantity: 1
+Harga Makanan: 21000
+
+Kode Makanan: M003
+Nama Makanan: Terong
+Quantity: 4
+Harga Makanan: 5000
+
+Kode Makanan: M003
+Nama Makanan: Terong
+Quantity: 4
+Harga Makanan: 5000
+
+Kode Makanan: M003
+Nama Makanan: Terong
+Quantity: 4
+Harga Makanan: 5000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode Makanan: M006
+Nama Makanan: Gorengan
+Quantity: 1
+Harga Makanan: 2000
+
+Kode: M006
+Nama Makanan: Gorengan
+Jumlah: 1
+Harga Porsi: 2000
+
+Kode: M007
+Nama Makanan: Sayur sop
+Jumlah: 2
+Harga Porsi: 7000
+
+Kode: M008
+Nama Makanan: Telur Asin
+Jumlah: 3
+Harga Porsi: 4000
+
+Kode: M009
+Nama Makanan: Telur Balado
+Jumlah: 4
+Harga Porsi: 4000
+
+Kode: M010
+Nama Makanan: Orek Tempe
+Jumlah: 5
+Harga Porsi: 3000
+
+Kode: M007
+Nama Makanan: Sayur sop
+Jumlah: 2
+Harga Porsi: 7000
+
+Kode: M008
+Nama Makanan: Telur Asin
+Jumlah: 3
+Harga Porsi: 4000
+
+Kode: M009
+Nama Makanan: Telur Balado
+Jumlah: 4
+Harga Porsi: 4000
+
+Kode: M010
+Nama Makanan: Orek Tempe
+Jumlah: 5
+Harga Porsi: 3000
+
+Kode: M004
+Nama Makanan: Capcay
+Jumlah: 5
+Harga Porsi: 5000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M004
+Nama Makanan: Capcay
+Jumlah: 200
+Harga Porsi: 5000
+
+Kode: M004
+Nama Makanan: Capcay
+Jumlah: 200
+Harga Porsi: 5000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 10000
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M004
+Nama Makanan: Capcay
+Jumlah: 50000
+Harga Porsi: 5000
+
+Kode: M004
+Nama Makanan: Capcay
+Jumlah: 50000
+Harga Porsi: 5000
+
+Kode: M001
+Nama Makanan: Ati Ampela
+Jumlah: 11
+Harga Porsi: 7000
+
+Kode: M006
+Nama Makanan: Gorengan
+Jumlah: 3
+Harga Porsi: 2000
+
+Kode: M007
+Nama Makanan: Sayur sop
+Jumlah: 1
+Harga Porsi: 7000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 10
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 1
+Harga Porsi: 21000
+
+Kode: M002
+Nama Makanan: Ayam goreng
+Jumlah: 10
+Harga Porsi: 21000
+
+Kode: M005
+Nama Makanan: Dadar
+Jumlah: 100010
+Harga Porsi: 4000
+

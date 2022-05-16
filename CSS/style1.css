@@ -1,0 +1,110 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,900&display=swap");
+
+@import url("../img/logo.png");
+
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+#home-content {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url("../img/homepage.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+
+svg.wave {
+  position: absolute;
+  bottom: -70px;
+}
+.middle {
+  display: inline-block;
+  justify-content: left;
+  align-items: center;
+  margin: 0 auto;
+  height: 90vh;
+  width: 70%;
+  padding-top: 20vh;
+  
+}
+.container {
+  height: 100vh;
+}
+.middle h1 {
+  font-size: 80px;
+  text-transform: Lowercase;
+}
+.middle h5 {
+  font-size: 30px;
+  text-transform: Lowercase;
+}
+
+.theme-text {
+  color:#99101C;
+  font-weight: bold;
+
+}
+:root {
+  --main-color: #C91126;
+}
+.act,
+
+.theme-text {
+  color: var(--main-color) !important;
+}
+
+
+.button {
+  display: inline-block;
+  border-radius: 1.6vw;
+  background-color: WHITE;
+  border: none;
+  color: #C91126;
+  text-align: center;
+  font-size: 1.5vw;
+  padding: 0.8vw;
+  width: 13vw;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0.3vw;
+  position: relative;
+  top:2.1vw;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+  font-family: "Poppins",sans-serif;
+  font-weight:bold;
+  text-transform: lowercase;
+  color: #C91126;
+  font-size: 2vw;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -2vw;
+  transition: 0.5s;
+  color: #C91126;
+}
+
+.button:hover span {
+  padding-right: 2vw;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}

@@ -1,0 +1,212 @@
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,900&display=swap');
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.btn-order {
+    color: #fff;
+    background-color: #99101C;
+    border-color:  #99101C;
+	font-family: "Poppins",sans-serif;
+}
+.section-title {
+    text-align: center;
+    padding-bottom: 40px;
+  }
+  .section-title h2 {
+    font-size: 64px;
+    font-weight: bold;
+    text-transform: lowercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color:  #99101C;
+}
+  
+.menu-wrap {
+	width: 100%;
+	padding: 30px 0;
+}
+
+.menu-grid {
+	width: auto;
+	position: relative;
+	background: #fff;
+	border-radius: 5px;
+	overflow: hidden;
+	border: 1px solid #ddd;	/*box-shadow: 0px 10px 30px 0px rgba(50, 50, 50, 0.16);*/
+	margin: 10px;
+}
+
+.menu-grid-image {
+	width: 100%;
+	height: 280px;
+	overflow: hidden;
+}
+
+.menu-grid-image img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	transition: .5s;
+}
+
+.menu-grid-box {
+	display: block;
+	position: absolute;
+	text-align: center;
+	background: #99101C;
+	left: -80px;
+	top: 15px;
+	padding: 10px;
+	transition: .5s;
+}
+
+.menu-grid-box h1 {
+	color: #fff;
+	font-size: 30px;
+	font-weight: 400;
+	letter-spacing: 2px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid rgba(255, 255, 255, .3);
+	margin-bottom: 5px;
+}
+
+.menu-grid-box p {
+	color: #fff;
+	font-size: 14px;
+	font-weight: 400;
+	margin-bottom: 0px;
+}
+
+.menu-grid-txt {
+	padding: 25px;
+}
+
+.menu-grid-txt span {
+	color: #99101C;
+	font-size: 13px;
+	font-weight: 500;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+.menu-grid-txt h2 {
+	color: #111;
+	font-size: 20px;
+	font-weight: 500;
+	letter-spacing: 1px;
+	margin: 10px 0px 5px 0px;
+}
+
+.menu-grid-txt ul {
+	padding: 0;
+	margin: 0;
+}
+
+.menu-grid-txt ul li {
+	list-style: none;
+	display: inline-block;
+	color: #999;
+	font-size: 14px;
+	font-weight: 300;
+	margin: 8px 10px 8px 0px;
+	letter-spacing: 1px;
+}
+
+.menu-grid-txt ul li i {
+	color: #99101C;
+	font-size: 14px;
+	font-weight: 500;
+	margin-right: 5px;
+}
+
+.menu-grid-txt p {
+	color: #222;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 170%;
+	letter-spacing: 1.5px;
+	border-bottom: 1px solid #ececec;
+	padding-bottom: 15px;
+	margin-bottom: 25px;
+}
+
+.menu-grid-txt a {
+	color: #fff;
+	background: #99101C;
+	padding: 8px 20px;
+	border-radius: 50px;
+	font-size: 14px;
+	font-weight: 300;
+	line-height: 30px;
+	letter-spacing: 1px;
+	text-decoration-line: none;
+	transition: .5s;
+}
+
+/*Hover-Section*/
+.menu-grid:hover .menu-grid-box {
+	left: 15px;
+	transition: .5s;
+}
+
+.menu-grid:hover .menu-grid-image img {
+	filter: grayscale(1);
+	transform: scale(1.1);
+	transition: .5s;
+}
+
+.menu-grid:hover .menu-grid-txt a {
+	text-decoration-line: none;
+	color: #fff;
+	letter-spacing: 2px;
+	transition: .5s;
+}
+
+/*OWL*/
+.owl-controls .owl-buttons {
+	position: relative;
+}
+
+.form{
+    width: 100vw;
+    height: 100%;
+}
+
+.owl-controls .owl-prev {
+	position: absolute;
+	left: -40px;
+	bottom: 230px;
+	padding: 8px 17px;
+	background: #99101C;
+	border-radius: 50px;
+	transition: .5s;
+}
+
+.owl-controls .owl-next {
+	position: absolute;
+	right: -40px;
+	bottom: 230px;
+	padding: 8px 17px;
+	background: #99101C;
+	border-radius: 50px;
+	transition: .5s;
+}
+
+.owl-controls .owl-prev:after, .owl-controls .owl-next:after {
+	content: '\f104';
+	font-family: FontAwesome;
+	color: #fff;
+	font-size: 16px;
+}
+
+.owl-controls .owl-next:after {
+	content: '\f105';
+}
+
+.owl-controls .owl-prev:hover, .owl-controls .owl-next:hover {
+	background: #000;
+}
